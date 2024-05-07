@@ -16,6 +16,17 @@
         "description": "Get this value from https://my.telegram.org",
         "value": "",
         "required": true
+          
+      },
+      "CHANNEL_NAME": {
+        "description": "اسم قناتك.",
+        "value": "Source big sam",
+        "required": true
+      },
+      "CHANNEL_LINK": {
+        "description": "يوزر قناتك بدون @.",
+        "value": "EF_19",
+        "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
